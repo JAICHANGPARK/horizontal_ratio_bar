@@ -1,7 +1,10 @@
 name: horizontal_ratio_bar
 description: A new Flutter package.
 version: 0.0.1
-homepage:
+homepage: https://github.com/JAICHANGPARK
+authors:
+  - JaiChang.Park(@Dreamwalker)
+repository: https://github.com/JAICHANGPARK/horizontal_ratio_bar
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
